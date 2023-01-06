@@ -1,8 +1,8 @@
   ## 2022 - 2 : 데이터 분석 🎀
 <p align="center">
   <br>
-  ### 🔧 python, pandas, numpy, SCIKITLEARN, 
-  ### RandomForest, KNN, KMEAN, LinearRegression
+  <h3> 🔧 python, pandas, numpy, SCIKITLEARN,<br>
+   RandomForest, KNN, KMEAN, LinearRegression</h3>
   with. jupyter notebook, colab
   <br>
   <hr>
