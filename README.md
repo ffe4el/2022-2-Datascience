@@ -1,6 +1,6 @@
-
+  ## 2022 - 2 : 데이터 분석 🎀
 <div align="center">
-  ## 2022 - 2 : 데이터 분석 💜
+
   <br><hr>
   ### 🔧 python, pandas, numpy, SCIKITLEARN, 
   ### RandomForest, KNN, KMEAN, LinearRegression
