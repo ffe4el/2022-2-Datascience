@@ -1,6 +1,5 @@
   ## 2022 - 2 : 데이터 분석 🎀
-<div align="center">
-
+<p align="center">
   <br>
   ### 🔧 python, pandas, numpy, SCIKITLEARN, 
   ### RandomForest, KNN, KMEAN, LinearRegression
@@ -9,4 +8,4 @@
   <hr>
   <br>
   Upgrade Learning ing... -> "LG Aimers" repository
-</div>
+</p>
